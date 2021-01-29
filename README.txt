@@ -1,0 +1,1 @@
+master-git-github-skeleton: https://docs.google.com/document/d/1wdedJ4EVL87tq_EWLDWKDfKp6qGUKWqzEXPrVGMfAA0/edit
